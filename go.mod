@@ -1,3 +1,3 @@
-module github.com/uber/h3-go/v4
+module github.com/frairon/h3-go
 
 go 1.18
